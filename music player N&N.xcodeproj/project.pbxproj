@@ -8,18 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		41007A6E1C53576600AF9A92 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41007A6D1C53576600AF9A92 /* Player.swift */; };
-		41007A711C53A55D00AF9A92 /* Can't Help Falling In Love.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 41007A701C53A55D00AF9A92 /* Can't Help Falling In Love.mp3 */; };
 		41007A731C53A5EC00AF9A92 /* Can't Help Falling In Love.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41007A721C53A5EC00AF9A92 /* Can't Help Falling In Love.jpg */; };
+		4187CC331C53EBDF00415A56 /* Asi es mi amor.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4187CC321C53EBDF00415A56 /* Asi es mi amor.mp3 */; };
+		4187CC371C53EBF800415A56 /* Contigo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4187CC361C53EBF800415A56 /* Contigo.mp3 */; };
+		4187CC391C53EBFE00415A56 /* Mi Vida Sin Ti.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4187CC381C53EBFE00415A56 /* Mi Vida Sin Ti.mp3 */; };
+		4187CC3B1C53EC0600415A56 /* Si nos quedara poco tiempo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4187CC3A1C53EC0600415A56 /* Si nos quedara poco tiempo.mp3 */; };
+		4187CC3D1C53ED3A00415A56 /* Can't Help Falling In Love.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4187CC3C1C53ED3A00415A56 /* Can't Help Falling In Love.mp3 */; };
 		41CDE3D91C5198CD00D56F50 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41CDE3D81C5198CD00D56F50 /* AppDelegate.swift */; };
 		41CDE3DE1C5198CD00D56F50 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE3DC1C5198CD00D56F50 /* Main.storyboard */; };
 		41CDE3E01C5198CD00D56F50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE3DF1C5198CD00D56F50 /* Assets.xcassets */; };
 		41CDE3E31C5198CD00D56F50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE3E11C5198CD00D56F50 /* LaunchScreen.storyboard */; };
 		41CDE3F31C51E9B800D56F50 /* TrackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41CDE3F21C51E9B800D56F50 /* TrackViewController.swift */; };
 		41CDE3F51C51F64200D56F50 /* Track.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41CDE3F41C51F64200D56F50 /* Track.swift */; };
-		41CDE3FB1C51F95500D56F50 /* Asi es mi amor.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE3F71C51F95500D56F50 /* Asi es mi amor.mp3 */; };
-		41CDE3FC1C51F95500D56F50 /* Contigo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE3F81C51F95500D56F50 /* Contigo.mp3 */; };
-		41CDE3FD1C51F95500D56F50 /* Mi vida sin ti.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE3F91C51F95500D56F50 /* Mi vida sin ti.mp3 */; };
-		41CDE3FE1C51F95500D56F50 /* Si nos quedara poco tiempo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE3FA1C51F95500D56F50 /* Si nos quedara poco tiempo.mp3 */; };
 		41CDE4041C51FA6200D56F50 /* Asi es mi amor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE4031C51FA6200D56F50 /* Asi es mi amor.jpg */; };
 		41CDE4061C51FAB900D56F50 /* Contigo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE4051C51FAB900D56F50 /* Contigo.jpg */; };
 		41CDE4081C51FB2600D56F50 /* Mi vida sin ti.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE4071C51FB2600D56F50 /* Mi vida sin ti.jpg */; };
@@ -30,8 +30,12 @@
 
 /* Begin PBXFileReference section */
 		41007A6D1C53576600AF9A92 /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
-		41007A701C53A55D00AF9A92 /* Can't Help Falling In Love.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Can't Help Falling In Love.mp3"; sourceTree = "<group>"; };
 		41007A721C53A5EC00AF9A92 /* Can't Help Falling In Love.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Can't Help Falling In Love.jpg"; sourceTree = "<group>"; };
+		4187CC321C53EBDF00415A56 /* Asi es mi amor.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Asi es mi amor.mp3"; sourceTree = "<group>"; };
+		4187CC361C53EBF800415A56 /* Contigo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Contigo.mp3; sourceTree = "<group>"; };
+		4187CC381C53EBFE00415A56 /* Mi Vida Sin Ti.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mi Vida Sin Ti.mp3"; sourceTree = "<group>"; };
+		4187CC3A1C53EC0600415A56 /* Si nos quedara poco tiempo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Si nos quedara poco tiempo.mp3"; sourceTree = "<group>"; };
+		4187CC3C1C53ED3A00415A56 /* Can't Help Falling In Love.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Can't Help Falling In Love.mp3"; sourceTree = "<group>"; };
 		41CDE3D51C5198CD00D56F50 /* music player N&N.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "music player N&N.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41CDE3D81C5198CD00D56F50 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		41CDE3DD1C5198CD00D56F50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -40,10 +44,6 @@
 		41CDE3E41C5198CD00D56F50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		41CDE3F21C51E9B800D56F50 /* TrackViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrackViewController.swift; sourceTree = "<group>"; };
 		41CDE3F41C51F64200D56F50 /* Track.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Track.swift; sourceTree = "<group>"; };
-		41CDE3F71C51F95500D56F50 /* Asi es mi amor.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Asi es mi amor.mp3"; sourceTree = "<group>"; };
-		41CDE3F81C51F95500D56F50 /* Contigo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Contigo.mp3; sourceTree = "<group>"; };
-		41CDE3F91C51F95500D56F50 /* Mi vida sin ti.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mi vida sin ti.mp3"; sourceTree = "<group>"; };
-		41CDE3FA1C51F95500D56F50 /* Si nos quedara poco tiempo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Si nos quedara poco tiempo.mp3"; sourceTree = "<group>"; };
 		41CDE4031C51FA6200D56F50 /* Asi es mi amor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Asi es mi amor.jpg"; sourceTree = "<group>"; };
 		41CDE4051C51FAB900D56F50 /* Contigo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Contigo.jpg; sourceTree = "<group>"; };
 		41CDE4071C51FB2600D56F50 /* Mi vida sin ti.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mi vida sin ti.jpg"; sourceTree = "<group>"; };
@@ -76,7 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				41007A721C53A5EC00AF9A92 /* Can't Help Falling In Love.jpg */,
-				41007A701C53A55D00AF9A92 /* Can't Help Falling In Love.mp3 */,
+				4187CC3C1C53ED3A00415A56 /* Can't Help Falling In Love.mp3 */,
 			);
 			name = track5;
 			sourceTree = "<group>";
@@ -129,7 +129,7 @@
 			isa = PBXGroup;
 			children = (
 				41CDE4031C51FA6200D56F50 /* Asi es mi amor.jpg */,
-				41CDE3F71C51F95500D56F50 /* Asi es mi amor.mp3 */,
+				4187CC321C53EBDF00415A56 /* Asi es mi amor.mp3 */,
 			);
 			name = track1;
 			sourceTree = "<group>";
@@ -138,7 +138,7 @@
 			isa = PBXGroup;
 			children = (
 				41CDE4051C51FAB900D56F50 /* Contigo.jpg */,
-				41CDE3F81C51F95500D56F50 /* Contigo.mp3 */,
+				4187CC361C53EBF800415A56 /* Contigo.mp3 */,
 			);
 			name = track2;
 			sourceTree = "<group>";
@@ -147,7 +147,7 @@
 			isa = PBXGroup;
 			children = (
 				41CDE4071C51FB2600D56F50 /* Mi vida sin ti.jpg */,
-				41CDE3F91C51F95500D56F50 /* Mi vida sin ti.mp3 */,
+				4187CC381C53EBFE00415A56 /* Mi Vida Sin Ti.mp3 */,
 			);
 			name = track3;
 			sourceTree = "<group>";
@@ -156,7 +156,7 @@
 			isa = PBXGroup;
 			children = (
 				41CDE4091C51FB6500D56F50 /* Si nos quedara poco tiempo.jpg */,
-				41CDE3FA1C51F95500D56F50 /* Si nos quedara poco tiempo.mp3 */,
+				4187CC3A1C53EC0600415A56 /* Si nos quedara poco tiempo.mp3 */,
 			);
 			name = track4;
 			sourceTree = "<group>";
@@ -237,17 +237,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				41CDE3FD1C51F95500D56F50 /* Mi vida sin ti.mp3 in Resources */,
 				41007A731C53A5EC00AF9A92 /* Can't Help Falling In Love.jpg in Resources */,
+				4187CC3B1C53EC0600415A56 /* Si nos quedara poco tiempo.mp3 in Resources */,
+				4187CC391C53EBFE00415A56 /* Mi Vida Sin Ti.mp3 in Resources */,
+				4187CC331C53EBDF00415A56 /* Asi es mi amor.mp3 in Resources */,
 				41CDE3E31C5198CD00D56F50 /* LaunchScreen.storyboard in Resources */,
 				41CDE4041C51FA6200D56F50 /* Asi es mi amor.jpg in Resources */,
-				41CDE3FE1C51F95500D56F50 /* Si nos quedara poco tiempo.mp3 in Resources */,
 				41CDE40A1C51FB6500D56F50 /* Si nos quedara poco tiempo.jpg in Resources */,
-				41007A711C53A55D00AF9A92 /* Can't Help Falling In Love.mp3 in Resources */,
-				41CDE3FC1C51F95500D56F50 /* Contigo.mp3 in Resources */,
 				41CDE3E01C5198CD00D56F50 /* Assets.xcassets in Resources */,
+				4187CC371C53EBF800415A56 /* Contigo.mp3 in Resources */,
 				41CDE4061C51FAB900D56F50 /* Contigo.jpg in Resources */,
-				41CDE3FB1C51F95500D56F50 /* Asi es mi amor.mp3 in Resources */,
+				4187CC3D1C53ED3A00415A56 /* Can't Help Falling In Love.mp3 in Resources */,
 				41CDE4081C51FB2600D56F50 /* Mi vida sin ti.jpg in Resources */,
 				41CDE3DE1C5198CD00D56F50 /* Main.storyboard in Resources */,
 			);
