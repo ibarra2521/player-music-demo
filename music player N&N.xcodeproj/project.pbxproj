@@ -7,21 +7,49 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		41007A6E1C53576600AF9A92 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41007A6D1C53576600AF9A92 /* Player.swift */; };
+		41007A711C53A55D00AF9A92 /* Can't Help Falling In Love.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 41007A701C53A55D00AF9A92 /* Can't Help Falling In Love.mp3 */; };
+		41007A731C53A5EC00AF9A92 /* Can't Help Falling In Love.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41007A721C53A5EC00AF9A92 /* Can't Help Falling In Love.jpg */; };
 		41CDE3D91C5198CD00D56F50 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41CDE3D81C5198CD00D56F50 /* AppDelegate.swift */; };
-		41CDE3DB1C5198CD00D56F50 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41CDE3DA1C5198CD00D56F50 /* ViewController.swift */; };
 		41CDE3DE1C5198CD00D56F50 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE3DC1C5198CD00D56F50 /* Main.storyboard */; };
 		41CDE3E01C5198CD00D56F50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE3DF1C5198CD00D56F50 /* Assets.xcassets */; };
 		41CDE3E31C5198CD00D56F50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE3E11C5198CD00D56F50 /* LaunchScreen.storyboard */; };
+		41CDE3F31C51E9B800D56F50 /* TrackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41CDE3F21C51E9B800D56F50 /* TrackViewController.swift */; };
+		41CDE3F51C51F64200D56F50 /* Track.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41CDE3F41C51F64200D56F50 /* Track.swift */; };
+		41CDE3FB1C51F95500D56F50 /* Asi es mi amor.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE3F71C51F95500D56F50 /* Asi es mi amor.mp3 */; };
+		41CDE3FC1C51F95500D56F50 /* Contigo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE3F81C51F95500D56F50 /* Contigo.mp3 */; };
+		41CDE3FD1C51F95500D56F50 /* Mi vida sin ti.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE3F91C51F95500D56F50 /* Mi vida sin ti.mp3 */; };
+		41CDE3FE1C51F95500D56F50 /* Si nos quedara poco tiempo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE3FA1C51F95500D56F50 /* Si nos quedara poco tiempo.mp3 */; };
+		41CDE4041C51FA6200D56F50 /* Asi es mi amor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE4031C51FA6200D56F50 /* Asi es mi amor.jpg */; };
+		41CDE4061C51FAB900D56F50 /* Contigo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE4051C51FAB900D56F50 /* Contigo.jpg */; };
+		41CDE4081C51FB2600D56F50 /* Mi vida sin ti.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE4071C51FB2600D56F50 /* Mi vida sin ti.jpg */; };
+		41CDE40A1C51FB6500D56F50 /* Si nos quedara poco tiempo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41CDE4091C51FB6500D56F50 /* Si nos quedara poco tiempo.jpg */; };
+		41CDE40D1C52046600D56F50 /* TrackTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41CDE40C1C52046600D56F50 /* TrackTableViewCell.swift */; };
+		41CDE4101C520B4400D56F50 /* NowPlayingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41CDE40F1C520B4400D56F50 /* NowPlayingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		41007A6D1C53576600AF9A92 /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		41007A701C53A55D00AF9A92 /* Can't Help Falling In Love.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Can't Help Falling In Love.mp3"; sourceTree = "<group>"; };
+		41007A721C53A5EC00AF9A92 /* Can't Help Falling In Love.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Can't Help Falling In Love.jpg"; sourceTree = "<group>"; };
 		41CDE3D51C5198CD00D56F50 /* music player N&N.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "music player N&N.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41CDE3D81C5198CD00D56F50 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		41CDE3DA1C5198CD00D56F50 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		41CDE3DD1C5198CD00D56F50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		41CDE3DF1C5198CD00D56F50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41CDE3E21C5198CD00D56F50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		41CDE3E41C5198CD00D56F50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41CDE3F21C51E9B800D56F50 /* TrackViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrackViewController.swift; sourceTree = "<group>"; };
+		41CDE3F41C51F64200D56F50 /* Track.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Track.swift; sourceTree = "<group>"; };
+		41CDE3F71C51F95500D56F50 /* Asi es mi amor.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Asi es mi amor.mp3"; sourceTree = "<group>"; };
+		41CDE3F81C51F95500D56F50 /* Contigo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Contigo.mp3; sourceTree = "<group>"; };
+		41CDE3F91C51F95500D56F50 /* Mi vida sin ti.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mi vida sin ti.mp3"; sourceTree = "<group>"; };
+		41CDE3FA1C51F95500D56F50 /* Si nos quedara poco tiempo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Si nos quedara poco tiempo.mp3"; sourceTree = "<group>"; };
+		41CDE4031C51FA6200D56F50 /* Asi es mi amor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Asi es mi amor.jpg"; sourceTree = "<group>"; };
+		41CDE4051C51FAB900D56F50 /* Contigo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Contigo.jpg; sourceTree = "<group>"; };
+		41CDE4071C51FB2600D56F50 /* Mi vida sin ti.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mi vida sin ti.jpg"; sourceTree = "<group>"; };
+		41CDE4091C51FB6500D56F50 /* Si nos quedara poco tiempo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Si nos quedara poco tiempo.jpg"; sourceTree = "<group>"; };
+		41CDE40C1C52046600D56F50 /* TrackTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrackTableViewCell.swift; sourceTree = "<group>"; };
+		41CDE40F1C520B4400D56F50 /* NowPlayingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NowPlayingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +63,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		41007A6C1C534E2A00AF9A92 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				41CDE3F41C51F64200D56F50 /* Track.swift */,
+				41007A6D1C53576600AF9A92 /* Player.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		41007A6F1C53A54B00AF9A92 /* track5 */ = {
+			isa = PBXGroup;
+			children = (
+				41007A721C53A5EC00AF9A92 /* Can't Help Falling In Love.jpg */,
+				41007A701C53A55D00AF9A92 /* Can't Help Falling In Love.mp3 */,
+			);
+			name = track5;
+			sourceTree = "<group>";
+		};
 		41CDE3CC1C5198CD00D56F50 = {
 			isa = PBXGroup;
 			children = (
@@ -54,14 +100,82 @@
 		41CDE3D71C5198CD00D56F50 /* music player N&N */ = {
 			isa = PBXGroup;
 			children = (
+				41007A6C1C534E2A00AF9A92 /* Model */,
+				41CDE40E1C520B2900D56F50 /* Controllers */,
+				41CDE40B1C52045400D56F50 /* Cell */,
+				41CDE3F61C51F90F00D56F50 /* tracks */,
 				41CDE3D81C5198CD00D56F50 /* AppDelegate.swift */,
-				41CDE3DA1C5198CD00D56F50 /* ViewController.swift */,
 				41CDE3DC1C5198CD00D56F50 /* Main.storyboard */,
 				41CDE3DF1C5198CD00D56F50 /* Assets.xcassets */,
 				41CDE3E11C5198CD00D56F50 /* LaunchScreen.storyboard */,
 				41CDE3E41C5198CD00D56F50 /* Info.plist */,
 			);
 			path = "music player N&N";
+			sourceTree = "<group>";
+		};
+		41CDE3F61C51F90F00D56F50 /* tracks */ = {
+			isa = PBXGroup;
+			children = (
+				41007A6F1C53A54B00AF9A92 /* track5 */,
+				41CDE3FF1C51F9C700D56F50 /* track1 */,
+				41CDE4021C51F9F000D56F50 /* track4 */,
+				41CDE4011C51F9E800D56F50 /* track3 */,
+				41CDE4001C51F9D500D56F50 /* track2 */,
+			);
+			name = tracks;
+			sourceTree = "<group>";
+		};
+		41CDE3FF1C51F9C700D56F50 /* track1 */ = {
+			isa = PBXGroup;
+			children = (
+				41CDE4031C51FA6200D56F50 /* Asi es mi amor.jpg */,
+				41CDE3F71C51F95500D56F50 /* Asi es mi amor.mp3 */,
+			);
+			name = track1;
+			sourceTree = "<group>";
+		};
+		41CDE4001C51F9D500D56F50 /* track2 */ = {
+			isa = PBXGroup;
+			children = (
+				41CDE4051C51FAB900D56F50 /* Contigo.jpg */,
+				41CDE3F81C51F95500D56F50 /* Contigo.mp3 */,
+			);
+			name = track2;
+			sourceTree = "<group>";
+		};
+		41CDE4011C51F9E800D56F50 /* track3 */ = {
+			isa = PBXGroup;
+			children = (
+				41CDE4071C51FB2600D56F50 /* Mi vida sin ti.jpg */,
+				41CDE3F91C51F95500D56F50 /* Mi vida sin ti.mp3 */,
+			);
+			name = track3;
+			sourceTree = "<group>";
+		};
+		41CDE4021C51F9F000D56F50 /* track4 */ = {
+			isa = PBXGroup;
+			children = (
+				41CDE4091C51FB6500D56F50 /* Si nos quedara poco tiempo.jpg */,
+				41CDE3FA1C51F95500D56F50 /* Si nos quedara poco tiempo.mp3 */,
+			);
+			name = track4;
+			sourceTree = "<group>";
+		};
+		41CDE40B1C52045400D56F50 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				41CDE40C1C52046600D56F50 /* TrackTableViewCell.swift */,
+			);
+			name = Cell;
+			sourceTree = "<group>";
+		};
+		41CDE40E1C520B2900D56F50 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				41CDE3F21C51E9B800D56F50 /* TrackViewController.swift */,
+				41CDE40F1C520B4400D56F50 /* NowPlayingViewController.swift */,
+			);
+			name = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,8 +237,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41CDE3FD1C51F95500D56F50 /* Mi vida sin ti.mp3 in Resources */,
+				41007A731C53A5EC00AF9A92 /* Can't Help Falling In Love.jpg in Resources */,
 				41CDE3E31C5198CD00D56F50 /* LaunchScreen.storyboard in Resources */,
+				41CDE4041C51FA6200D56F50 /* Asi es mi amor.jpg in Resources */,
+				41CDE3FE1C51F95500D56F50 /* Si nos quedara poco tiempo.mp3 in Resources */,
+				41CDE40A1C51FB6500D56F50 /* Si nos quedara poco tiempo.jpg in Resources */,
+				41007A711C53A55D00AF9A92 /* Can't Help Falling In Love.mp3 in Resources */,
+				41CDE3FC1C51F95500D56F50 /* Contigo.mp3 in Resources */,
 				41CDE3E01C5198CD00D56F50 /* Assets.xcassets in Resources */,
+				41CDE4061C51FAB900D56F50 /* Contigo.jpg in Resources */,
+				41CDE3FB1C51F95500D56F50 /* Asi es mi amor.mp3 in Resources */,
+				41CDE4081C51FB2600D56F50 /* Mi vida sin ti.jpg in Resources */,
 				41CDE3DE1C5198CD00D56F50 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -136,8 +260,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				41CDE3DB1C5198CD00D56F50 /* ViewController.swift in Sources */,
+				41CDE3F31C51E9B800D56F50 /* TrackViewController.swift in Sources */,
+				41CDE4101C520B4400D56F50 /* NowPlayingViewController.swift in Sources */,
 				41CDE3D91C5198CD00D56F50 /* AppDelegate.swift in Sources */,
+				41CDE3F51C51F64200D56F50 /* Track.swift in Sources */,
+				41007A6E1C53576600AF9A92 /* Player.swift in Sources */,
+				41CDE40D1C52046600D56F50 /* TrackTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +413,7 @@
 				41CDE3E91C5198CD00D56F50 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
