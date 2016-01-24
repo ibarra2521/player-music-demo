@@ -18,7 +18,6 @@ class Track {
     var artworkLoaded = false
     var isPlaying: Bool = false
     
-//    init (title: String, artworkURL: String, artworkImage: UIImage){
     init (title: String, artist: String, soundURL: NSURL){
         self.title = title
         self.artist = artist
